@@ -87,6 +87,11 @@ The final product / deliverable is integrated with **Rocket.Chat core app and Li
 - Out Audio Bytes Tx: 14934321
 - Lip Sync: Ok
 
+- Bugs Found:
+    - [#1](https://github.com/orgs/RocketChat/projects/37#card-67289643) Control buttons hide behind the bottom tab grouping bar in chrome browser on mobile devices.
+    - [#2](https://github.com/orgs/RocketChat/projects/37#card-66667515) In desktop view on chrome and brave, the camera light stays on even when the turn camera button off is toggled. Even when the call ends the red dot in the tab title remains.
+    - [#3](https://github.com/orgs/RocketChat/projects/37#card-67250202) If visitor has video on and agent closes the tab and rejoins or refreshes the screen, then agent won't be able to see the video of visitor and vice-versa. The visitor would have to turn off and then turn on the video for agent to see it.
+
 
 **Other Contributions**
 - Helped UI/UX team in Discovery Phase - finalizing the designs.
